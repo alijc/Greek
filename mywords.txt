@@ -1,20 +1,42 @@
+ἀγαθός, ἀγαθή, ἀγαθόν			good
 ἄγω, ἄξω, ἤγαγον, ἤχθην		I lead, bring
+ἀεί					always
+Ἀθηναῖοσ, Ἀθηναία, ὁ			Athenian
+ἀνδρεῖος, ἀνδρεία, ἀνδρεῖον		brave
+ἀπό    	     			from (+gen.)
 ἀποβάλλω, ἀποβαλῶ, ἁπεβαλον, ἁπεβλήθην	I throw away
-βαίνω, βήσομαι, ἔβην  			I go
+ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον	I die, am killed
+ἆρα	   	     			interrogative particle
+βαίνω, βήσομαι, ἔβην			I go
 βάλλω, βαλῶ, ἔβαλον, ἐβλήθην		I throw; I fire at, pelt/hit
+γάρ		 			for
+γιγνώσκω, γνώσομαι, ἔγνων, ἐγνώσθην	I know, realise, understand
 γράφω, γράѱω, ἔγραѱα, ἐγράφην		I write, draw
+δέ		 			but, and (conjunctive particle)
+δεινός, δεινή, δεινόν			terrible; strange; clever
 διδασκω ἐδιδαξα	      			I teach
+διότι					because
 διώκω, διώξω, ἐδίωξα, ἐδιώχθην		I chase, pursue
 δύο, δύο, δύο				two
+ἐθέλω, ἐθελήσω, ἠθέλησα			I wish, am willing
 ἐισπίπτω, ἐισπεσοῦμαι, ἐισεπεσον	I fall into
+ἐκ, ἐξ					out of, from (+gen.)
 ἐκβαίνω, ἐκβήσομαι, ἐξεβην 		I go out
+ἐκεῖ	 	 			there
 ἐκτρέχω, ἐξδραμοῦμαι, ἐξεδραμον		I run out
+ἐλεύθερος, ἐλευθέρα, ἐλεύθερον		free
+ἐν    	   				in, on, among (+dat.)
+ἐνθάδε					here, to here
 ἐπεί					since, when
 ἔπειτα					then, next, afterwards
 ἐσθίω, ἔδομαι, ἔφαγον	  		I eat
 εὑρίσκω, εὑρήσω, ηὗρον, ηὑρέθην		I find
+ἐχθρός, ἐχθρά, ἐχθρόν			hostile
 ἔχω, ἕξω/σχήσω, εἶχον (impf), ἔσχον	I have, hold; am (+adverb); can (+inf.)
 θάλασσα, θαλάσσης, ἡ			sea
+θαυμάζω, θαυμάσομαι, ἐθαύμασα,		I am amazed at, admire
+κακός, κακή, κακόν   			bad, wicked, cowardly
+καλός, καλή, καλόν    			beautiful, handsome, fine
 κελεύω, κελεύσω, ἐκέλευσα, ἐκελεύσθην 	I bid, ask, order
 κριτης -ου ὁ 	 	   		judge
 λαμβάνω, λήѱομαι, ἔλαβον, ἐλήφθην	I take, capture
@@ -23,29 +45,43 @@
 λύω, λύσω, ἔλυσα, ἐλύθην		I untie, loose, set free
 μανθάνω, μαθήσομαι, ἔμαθον		I learn
 μεγιστος -η -ον     			very great, very big
+μέν... δέ				on the one hand...on the other
+μέντοι	   				however
 μετά  	    				with (+gen.); after (+acc.)
+μικρός, μικρά, μικρόν			small, little
 μυθος -ου ὁ 				story (myth, fable)
 ναύτης, ναύτου, ὁ   			sailor
 νεανίας, νεανίου, ὁ 			young man
+νέος, νέα, νέον				new, young, recent
 νῆσος, νήσου, ἡ			island
+νῦν    	      				now
 νόσος, νόσου, ἡ				disease, illness
 ὁδός, ὁδοῦ, ἡ				road, path, way; journey
+οὖν					therefore, and so
 πάσχω, πείσομαι, ἔπαθον			I suffer, experience
+παρέχω, παρέξω/παρασχήσω, παρέσχον	I provide, cause, produce
 πείθω, πείσω, ἔπεισα, / ἔπιθον		I persuade
 πέμπω, πέμѱω, ἔπεμѱα, ἐπέμφθην		I send, escort, fire (an arrow)
 πίπτω, πεσοῦμαι, ἔπεσον			I fall
 πιστεύω, πιστεύσω, ἐπίστευσα		I believe, trust (+dat.)
 ποιητης -ου ὁ 	   			poet
 πολίτης, πολίτου, ὁ			citizen
+πολλάκις 	  			often
+πότε	 	  			when?
+ποῦ					where?
 προσαγω, προσαξω, προσηγαγον, προσηχθην	I lead, bring to(wards)
 προσβαίνω, προσβήσομαι, προσεβην	I go to(wards)
 προσπέμπω, προσπέμѱω, προσεπεμѱα, προσεπέμφθην	I send to(wards)
 προστρέχω, προσδραμοῦμαι, προσεδραμον	I run to(wards)
+πρότερον				before, formerly
 πρῶτον					at first, first
+πῶς  	    				how?
 στρατιώτης, στρατιώτου, ὁ		soldier
 τρέχω, δραμοῦμαι, ἔδραμον		I run
 φεύγω, φεύξομαι, ἔφυγον			I run away, flee
 φυλάσσω, φυλάξω, ἐφύλαξα, ἐφυλάχθην 	I guard
+χαλεπός, χαλεπή, χαλεπόν		difficult
 χρήσιμος -η -ον  	  		useful
+ὦ     	     				o... (addressing someone)
 ὡς					when, as, because
 
