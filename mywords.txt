@@ -1,9 +1,11 @@
 ἀγαθός, ἀγαθή, ἀγαθόν			good
+ἄγγελος, ἀγγέλου, ὁ	  		messenger
 ἀγορά, ἀγορᾶς, ἡ  			market place
 ἄγω, ἄξω, ἤγαγον, ἤχθην		I lead, bring
 ἀεί					always
 Ἀθηναῖοσ, Ἀθηναία, ὁ			Athenian
 ἀθλον, το 	   			prize
+ἀκούω, ἀκούσομαι, ἤκουσα, ἠκούσθην	I hear, listen (+gen.)
 ἀλλά					but
 ἀνδρεῖος, ἀνδρεία, ἀνδρεῖον		brave
 ἄνθρωπος, ἀνθρώπου, ὁ			man, person
@@ -15,7 +17,10 @@
 βαίνω, βήσομαι, ἔβην			I go
 βάλλω, βαλῶ, ἔβαλον, ἐβλήθην		I throw; I fire at, pelt/hit
 βιος ὁ 	     	     			life
+βοή, βοῆς, ἡ				shout, cry
+βουλή, βουλῆς, ἡ 	   		plan, counsel; a council
 γάρ		 			for
+γε					at any rate, even
 γιγνώσκω, γνώσομαι, ἔγνων, ἐγνώσθην	I know, realise, understand
 γράφω, γράѱω, ἔγραѱα, ἐγράφην		I write, draw
 δέ		 			but, and (conjunctive particle)
@@ -25,13 +30,17 @@
 δένδρον, δένδρου, τό			tree
 δεσμωτηριον το 	  			prison
 δημος ὁ     				people, community
+διδασκαλος ὁ 				teacher
 διδασκω ἐδιδαξα	      			I teach
 διότι					because
 διώκω, διώξω, ἐδίωξα, ἐδιώχθην		I chase, pursue
+δοῦλος, δούλου, ὁ   			slave
 δύο, δύο, δύο				two
 δῶρον, δώρου, τό    			present, gift
 ἐθέλω, ἐθελήσω, ἠθέλησα			I wish, am willing
-εἰμί, ἔσομαι, ἦν				I am
+εἰμί, ἔσομαι, ἦν			I am
+εἰρήνη, εἰρήνης, ἡ			peace
+εἰς		 			to, into (+acc.)
 ἐισπίπτω, ἐισπεσοῦμαι, ἐισεπεσον	I fall into
 ἐκ, ἐξ					out of, from (+gen.)
 ἐκβαίνω, ἐκβήσομαι, ἐξεβην 		I go out
@@ -43,6 +52,7 @@
 ἐνθάδε					here, to here
 ἐπεί					since, when
 ἔπειτα					then, next, afterwards
+ἐπιστολή, ἐπιστολῆς, ἡ			letter
 ἐσθίω, ἔδομαι, ἔφαγον	  		I eat
 εὑρίσκω, εὑρήσω, ηὗρον, ηὑρέθην		I find
 ἔργον, ἔργου, τό			work, task, deed, action
@@ -57,15 +67,19 @@
 θεός, θεοῦ, ὁ, ἡ			god; goddess
 θύρα, θύρας, ἡ	   			door
 ἱερον το     				temple
+ἵππος, ἵππου, ὁ				horse
 καί	       				and; also, even, too; actually
 κακός, κακή, κακόν   			bad, wicked, cowardly
 καλός, καλή, καλόν    			beautiful, handsome, fine
 κελεύω, κελεύσω, ἐκέλευσα, ἐκελεύσθην 	I bid, ask, order
 κίνδυνος, κινδύνου, ὁ			danger
+κορη ἡ 	  	    		girl
 κριτης -ου ὁ 	 	   		judge
+κωμη ἡ 	   			village
 λαμβάνω, λήѱομαι, ἔλαβον, ἐλήφθην	I take, capture
 λέγω, ἐρῶ/λέξω, εἶπον/ἔλεξα, ἐρρήθην/ἐλέχθην	I say, speak, tell
 λείπω, λείѱω, ἔλιπον, ἐλείφθην		I leave
+λόγος, λόγου, ὁ				word, speech, argument; story, account
 λύω, λύσω, ἔλυσα, ἐλύθην		I untie, loose, set free
 μανθάνω, μαθήσομαι, ἔμαθον		I learn
 μεγιστος -η -ον     			very great, very big
@@ -80,16 +94,21 @@
 ναυτικόν, ναυτικοῦ, τό			fleet
 νεανίας, νεανίου, ὁ 			young man
 νέος, νέα, νέον				new, young, recent
+νίκη, νίκης, ἡ 				victory
 νῆσος, νήσου, ἡ			island
 νῦν    	      				now
 νόμος, νόμου, ὁ				law, custom
-νόσος, νόσου, ἡ				disease, illness
+νόσος, νόσου, ἡ			disease, illness
+ξένος, ξένου, ὁ				stranger, foreigner; guest, host; friend
+ὁ, ἡ, τό       			the
 ὁδός, ὁδοῦ, ἡ				road, path, way; journey
 οἰκία, οἰκίας, ἡ				house, home
 ὅπλα, ὅπλων, τά	 		weapons, arms, armour; gear, tackle
+οὐ, οὐκ, οὐχ, οὐχι			not
 οὖν					therefore, and so
 πάσχω, πείσομαι, ἔπαθον			I suffer, experience
 παρέχω, παρέξω/παρασχήσω, παρέσχον	I provide, cause, produce
+παύω, παύσω, ἔπαυσα, ἐπαύσθην		I stop
 πείθω, πείσω, ἔπεισα, / ἔπιθον		I persuade
 πέμπω, πέμѱω, ἔπεμѱα, ἐπέμφθην		I send, escort, fire (an arrow)
 πέντε  	      	      			five
@@ -100,25 +119,34 @@
 πόλεμος, πολέμου, ὁ 			war
 πολίτης, πολίτου, ὁ			citizen
 πολλάκις 	  			often
+ποταμός, ποταμοῦ, ὁ			river
 πότε	 	  			when?
 ποῦ					where?
+πρός					to, against (+acc.)
 προσαγω, προσαξω, προσηγαγον, προσηχθην	I lead, bring to(wards)
 προσβαίνω, προσβήσομαι, προσεβην	I go to(wards)
 προσπέμπω, προσπέμѱω, προσεπεμѱα, προσεπέμφθην	I send to(wards)
 προστρέχω, προσδραμοῦμαι, προσεδραμον	I run to(wards)
 πρότερον				before, formerly
 πρῶτον					at first, first
+πύλη, πύλης, ἡ 			gate
 πῶς  	    				how?
 σοϕια ἡ 				wisdom 
+στρατηγός, στρατηγοῦ, ὁ			general, commander
 στρατιώτης, στρατιώτου, ὁ		soldier
 στρατοπεδον το 				camp
+στρατος ὁ   				army
+συμμαχος ὁ 				ally
 τασσω 	    				I draw up, I arrange
 τε * … και 				both … and
+τιμη ἡ 				honour
 τρέχω, δραμοῦμαι, ἔδραμον		I run
 φεύγω, φεύξομαι, ἔφυγον			I run away, flee
+φέρω, οἴσω, ἤνεγκα, ἠνέχθην		I carry, bear, endure
 φίλος, φίλου, ὁ				(male) friend
 φόβος, φόβου, ὁ	     			fear
 φυλάσσω, φυλάξω, ἐφύλαξα, ἐφυλάχθην 	I guard
+φωνή, φωνῆς, ἡ	 	  		voice
 χαλεπός, χαλεπή, χαλεπόν		difficult
 χρήσιμος -η -ον  	  		useful
 χρόνος, χρόνου, ὁ  			time
