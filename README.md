@@ -1,2 +1,0 @@
-# Greek
-Ancient Greek
