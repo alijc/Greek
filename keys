@@ -10,13 +10,13 @@ accents			breathing
 
 ]a ᾳ	iota subscript	{a ᾶ 	diaresis
 
-combos
-[:a  ἆ
-]:a  ᾀ
-][:a ᾆ
-]"a  ᾀ
-["a  ἆ
-;:a  ἄ
-'"a  ἃ
+combos	     
+[:a  ἆ	     ἀ ἁ ᾳ Ἀ Ἁ ᾼ
+]:a  ᾀ	     ἐ ἑ Ἐ Ἑ
+][:a ᾆ	     ἠ ἡ ῃ ἢ Ἠ Ἡ ῌ 
+]"a  ᾀ	     ἰ ἱ Ἰ Ἱ
+["a  ἆ	     ὀ ὁ Ὀ Ὁ
+;:a  ἄ	     ὐ ὑ Ὑ Ὓ
+'"a  ἃ	     ὠ ὡ ῳ ῼ
 ':a  ἅ
 ":a  ἂ
