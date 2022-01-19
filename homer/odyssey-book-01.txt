@@ -1,46 +1,56 @@
-
 ἄνδρα μοι ἔννεπε, μοῦσα, πολύτροπον, ὃς μάλα πολλὰ    1
 πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσεν:
-
 πολλῶν δ᾽ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,
 πολλὰ δ᾽ ὅ γ᾽ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,
-
 ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.     5
 ἀλλ᾽ οὐδ᾽ ὣς ἑτάρους ἐρρύσατο, ἱέμενός περ:
-
 αὐτῶν γὰρ σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο,
 νήπιοι, οἳ κατὰ βοῦς Ὑπερίονος Ἠελίοιο
-
 ἤσθιον: αὐτὰρ ὁ τοῖσιν ἀφείλετο νόστιμον ἦμαρ.
 τῶν ἁμόθεν γε, θεά, θύγατερ Διός, εἰπὲ καὶ ἡμῖν.   10
-
 ἔνθ᾽ ἄλλοι μὲν πάντες, ὅσοι φύγον αἰπὺν ὄλεθρον,
 οἴκοι ἔσαν, πόλεμόν τε πεφευγότες ἠδὲ θάλασσαν:
-
 τὸν δ᾽ οἶον νόστου κεχρημένον ἠδὲ γυναικὸς
 νύμφη πότνι᾽ ἔρυκε Καλυψὼ δῖα θεάων
-
 ἐν σπέσσι γλαφυροῖσι, λιλαιομένη πόσιν εἶναι.    15
-
+====================================================
 Tell me, Muse, about that wily man, who wandered far and wide
 after laying waste to Troy's sacred citadel.
-
 He saw the towns and came to know the minds of many men,
 he endured much grief at sea deep in his soul,
-
 striving to save his own and his comrades' lives and their return to Greece.
 But he couldn't rescue his comrades, as much as he would have liked:
-
 for they were destroyed by their own wickedness,
 children who ate the bulls of Hyperion Helios:
-
 who robbed them of the day of their return.
 Tell us of these things, goddess, daughter of Zeus, starting wherever you like. 
-
 The others, all who fled utter destruction then,
 were home, those who escaped both war and sea:
-
 A lonely man yearning for his home-coming and for his wife,
 the nymph Mistress Calypso, the noblest of the goddesses, detained him
-
 in a cavern, longing for him to be her husband.
+====================================================
+
+.. ἀλλ᾽ ὅτε δὴ ἔτος ἦλθε περιπλομένων ἐνιαυτῶν,
+τῷ οἱ ἐπεκλώσαντο θεοὶ οἶκόνδε νέεσθαι
+
+.. εἰς Ἰθάκην, οὐδ᾽ ἔνθα πεφυγμένος ἦεν ἀέθλων
+καὶ μετὰ οἷσι φίλοισι. θεοὶ δ᾽ ἐλέαιρον ἅπαντες
+
+.. νόσφι Ποσειδάωνος: ὁ δ᾽ ἀσπερχὲς μενέαινεν    20
+ἀντιθέῳ Ὀδυσῆι πάρος ἣν γαῖαν ἱκέσθαι.
+
+.. ἀλλ᾽ ὁ μὲν Αἰθίοπας μετεκίαθε τηλόθ᾽ ἐόντας,
+Αἰθίοπας τοὶ διχθὰ δεδαίαται, ἔσχατοι ἀνδρῶν,
+
+.. οἱ μὲν δυσομένου Ὑπερίονος οἱ δ᾽ ἀνιόντος,
+ἀντιόων ταύρων τε καὶ ἀρνειῶν ἑκατόμβης.    25
+
+.. ἔνθ᾽ ὅ γ᾽ ἐτέρπετο δαιτὶ παρήμενος: οἱ δὲ δὴ ἄλλοι
+Ζηνὸς ἐνὶ μεγάροισιν Ὀλυμπίου ἁθρόοι ἦσαν.
+
+.. τοῖσι δὲ μύθων ἦρχε πατὴρ ἀνδρῶν τε θεῶν τε:
+μνήσατο γὰρ κατὰ θυμὸν ἀμύμονος Αἰγίσθοιο,
+
+.. τόν ῥ᾽ Ἀγαμεμνονίδης τηλεκλυτὸς ἔκταν᾽ Ὀρέστης:    30
+
