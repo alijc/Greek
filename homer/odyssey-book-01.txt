@@ -31,26 +31,49 @@ the nymph Mistress Calypso, the noblest of the goddesses, detained him
 in a cavern, longing for him to be her husband.
 ====================================================
 
-.. ἀλλ᾽ ὅτε δὴ ἔτος ἦλθε περιπλομένων ἐνιαυτῶν,
+ἀλλ᾽ ὅτε δὴ ἔτος ἦλθε περιπλομένων ἐνιαυτῶν,
 τῷ οἱ ἐπεκλώσαντο θεοὶ οἶκόνδε νέεσθαι
 
-.. εἰς Ἰθάκην, οὐδ᾽ ἔνθα πεφυγμένος ἦεν ἀέθλων
+εἰς Ἰθάκην, οὐδ᾽ ἔνθα πεφυγμένος ἦεν ἀέθλων
 καὶ μετὰ οἷσι φίλοισι. θεοὶ δ᾽ ἐλέαιρον ἅπαντες
 
-.. νόσφι Ποσειδάωνος: ὁ δ᾽ ἀσπερχὲς μενέαινεν    20
+νόσφι Ποσειδάωνος: ὁ δ᾽ ἀσπερχὲς μενέαινεν    20
 ἀντιθέῳ Ὀδυσῆι πάρος ἣν γαῖαν ἱκέσθαι.
 
-.. ἀλλ᾽ ὁ μὲν Αἰθίοπας μετεκίαθε τηλόθ᾽ ἐόντας,
+ἀλλ᾽ ὁ μὲν Αἰθίοπας μετεκίαθε τηλόθ᾽ ἐόντας,
 Αἰθίοπας τοὶ διχθὰ δεδαίαται, ἔσχατοι ἀνδρῶν,
 
-.. οἱ μὲν δυσομένου Ὑπερίονος οἱ δ᾽ ἀνιόντος,
+οἱ μὲν δυσομένου Ὑπερίονος οἱ δ᾽ ἀνιόντος,
 ἀντιόων ταύρων τε καὶ ἀρνειῶν ἑκατόμβης.    25
 
-.. ἔνθ᾽ ὅ γ᾽ ἐτέρπετο δαιτὶ παρήμενος: οἱ δὲ δὴ ἄλλοι
+ἔνθ᾽ ὅ γ᾽ ἐτέρπετο δαιτὶ παρήμενος: οἱ δὲ δὴ ἄλλοι
 Ζηνὸς ἐνὶ μεγάροισιν Ὀλυμπίου ἁθρόοι ἦσαν.
 
-.. τοῖσι δὲ μύθων ἦρχε πατὴρ ἀνδρῶν τε θεῶν τε:
+τοῖσι δὲ μύθων ἦρχε πατὴρ ἀνδρῶν τε θεῶν τε:
 μνήσατο γὰρ κατὰ θυμὸν ἀμύμονος Αἰγίσθοιο,
 
 .. τόν ῥ᾽ Ἀγαμεμνονίδης τηλεκλυτὸς ἔκταν᾽ Ὀρέστης:    30
 
+
+AJC But indeed when a year came as the time rolled on,
+the fates destined them to go home
+
+AJC to Ithica, not yet there he who fled was contending with
+and among their loved ones.  All the gods took pity
+
+AJC except Poseidon: he hotly raged against
+godlike Odysseus formerly >the land to come.
+
+AJC but he was following those being Ethiopians from after
+they divided the Ethiopians, uttermost of men, in twain,
+
+AJC they of Hyperion who will sink they he who rises
+he who goes to meet both of bulls and of rams of offering 100.
+
+AJC there he was cheered ??? ???: indeed the others
+of Zeus in halls of Olympus in crowds were.
+
+AJC to them of stories the father of men and of gods led/was first:
+for he was reminded/reminded himself deep in his soul of noble Aiyisthos,
+
+AJC >him ? Agamemnon's son of horses Orestes killed:
