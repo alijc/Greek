@@ -287,95 +287,66 @@ the chair was beautifully wrought: with a footstool for her feet under it.
 
 πὰρ δ᾽ αὐτὸς κλισμὸν θέτο ποικίλον, ἔκτοθεν ἄλλων
 μνηστήρων, μὴ ξεῖνος ἀνιηθεὶς ὀρυμαγδῷ
-
 δείπνῳ ἁδήσειεν, ὑπερφιάλοισι μετελθών,
 ἠδ᾽ ἵνα μιν περὶ πατρὸς ἀποιχομένοιο ἔροιτο.   135
-
 χέρνιβα δ᾽ ἀμφίπολος προχόῳ ἐπέχευε φέρουσα
 καλῇ χρυσείῃ, ὑπὲρ ἀργυρέοιο λέβητος,
-
 νίψασθαι: παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν.
 σῖτον δ᾽ αἰδοίη ταμίη παρέθηκε φέρουσα,
-
 εἴδατα πόλλ᾽ ἐπιθεῖσα, χαριζομένη παρεόντων:   140
 δαιτρὸς δὲ κρειῶν πίνακας παρέθηκεν ἀείρας
-
 παντοίων, παρὰ δέ σφι τίθει χρύσεια κύπελλα:
 κῆρυξ δ᾽ αὐτοῖσιν θάμ᾽ ἐπῴχετο οἰνοχοεύων.
-
 ἐς δ᾽ ἦλθον μνηστῆρες ἀγήνορες. οἱ μὲν ἔπειτα
 ἑξείης ἕζοντο κατὰ κλισμούς τε θρόνους τε,     145
-
 τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευαν,
 σῖτον δὲ δμῳαὶ παρενήνεον ἐν κανέοισιν,
 ========================================
 
 He himself sat on an inlaid couch beside her, far from
 the suitors, lest his guest should loathe the meal,
-
 bothered by the din of the proud boys who had come,
 and to let him ask about his absent father.
-
 A handmaiden brought water in an elegant gold ewer
 and poured it out over a silver basin for washing their hands,
-
 and set out a planed table beside them.
 The respectable housekeeper brought bread and set it before them.
-
 She set many dishes down, giving freely of what she had.
 The carver picked up trenchers of all sorts of meats and set them down.
-
 He set golden goblets by their side, while
 a herald often came up to them, pouring out wine.
-
 The arrogant suitors came in, and then 
 sat down, one after the other, on the couches and chairs.
-
 Heralds poured water over their hands,
 handmaidens heaped bread into baskets,
-
 and boys filled drinking vessels.
 ========================================
-
 οἱ δ᾽ ἐπ᾽ ὀνείαθ᾽ ἑτοῖμα προκείμενα χεῖρας ἴαλλον.
 αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο    150
-
 μνηστῆρες, τοῖσιν μὲν ἐνὶ φρεσὶν ἄλλα μεμήλει,
 μολπή τ᾽ ὀρχηστύς τε: τὰ γὰρ τ᾽ ἀναθήματα δαιτός:
-
 κῆρυξ δ᾽ ἐν χερσὶν κίθαριν περικαλλέα θῆκεν
 Φημίῳ, ὅς ῥ᾽ ἤειδε παρὰ μνηστῆρσιν ἀνάγκῃ.
-
 ἦ τοι ὁ φορμίζων ἀνεβάλλετο καλὸν ἀείδειν.   155
 αὐτὰρ Τηλέμαχος προσέφη γλαυκῶπιν Ἀθήνην,
-
 ἄγχι σχὼν κεφαλήν, ἵνα μὴ πευθοίαθ᾽ οἱ ἄλλοι:
 ‘ξεῖνε φίλ᾽, ἦ καὶ μοι νεμεσήσεαι ὅττι κεν εἴπω;
-
 τούτοισιν μὲν ταῦτα μέλει, κίθαρις καὶ ἀοιδή,
 ῥεῖ᾽, ἐπεὶ ἀλλότριον βίοτον νήποινον ἔδουσιν,    160
-
 ἀνέρος, οὗ δή που λεύκ᾽ ὀστέα πύθεται ὄμβρῳ
 κείμεν᾽ ἐπ᾽ ἠπείρου, ἢ εἰν ἁλὶ κῦμα κυλίνδει.
 ========================================
-
-AJC They put their hands out to the food that had been cooked and set before them.
+They put their hands out to the food that had been cooked and set before them.
 After the suitors had sated themselves on food and drink,
-
-AJC they gave a thought in their hearts to other things,
+they turned their hearts to other things,
 to song and dance: for these are a banquet's delights:
-
-AJC a herald placed a beautiful lyre into Phemius' hands,
-who sang, of necessity, among the suitors.
-
-AJC I tell you truly, he took the harp and struck up a beautiful song.
+a herald placed a beautiful lyre into Phemius' hands,
+who was forced to sing for the suitors.
+And he took the harp and struck up a beautiful song.
 But Telemachus addressed Athena of the gleaming eyes,
-
-AJC holding his head close, for fear the others might notice:
-"Dear stranger, will you in truth be mad at me because I speak?
-
-AJC These men care for these things, playing the lyre and singing,
+holding his head close, for fear the others might notice:
+"Dear stranger, will you be mad at me for what I say?
+These men care for these things, playing the lyre and singing,
 lightly, while they, without recompense, eat up the livelihood of another man,
-
-AJC whose bleached bones are decaying somewhere, lying on the ground
+whose bleached bones are decaying somewhere, lying on the ground
 in the rain, or rolled by the waves in the sea.
