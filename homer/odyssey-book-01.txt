@@ -353,47 +353,33 @@ in the rain, or rolled by the waves in the sea.
 ========================================
 εἰ κεῖνόν γ᾽ Ἰθάκηνδε ἰδοίατο νοστήσαντα,
 πάντες κ᾽ ἀρησαίατ᾽ ἐλαφρότεροι πόδας εἶναι
-
 ἢ ἀφνειότεροι χρυσοῖό τε ἐσθῆτός τε.   165
 νῦν δ᾽ ὁ μὲν ὣς ἀπόλωλε κακὸν μόρον, οὐδέ τις ἡμῖν
-
 θαλπωρή, εἴ πέρ τις ἐπιχθονίων ἀνθρώπων
 φῇσιν ἐλεύσεσθαι: τοῦ δ᾽ ὤλετο νόστιμον ἦμαρ.
-
 ἀλλ᾽ ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον:
 τίς πόθεν εἰς ἀνδρῶν; πόθι τοι πόλις ἠδὲ τοκῆες;    170
-
 ὁπποίης τ᾽ ἐπὶ νηὸς ἀφίκεο: πῶς δέ σε ναῦται
 ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;
-
 οὐ μὲν γὰρ τί σε πεζὸν ὀίομαι ἐνθάδ᾽ ἱκέσθαι.
 καί μοι τοῦτ᾽ ἀγόρευσον ἐτήτυμον, ὄφρ᾽ ἐὺ εἰδῶ,
-
 ἠὲ νέον μεθέπεις ἦ καὶ πατρώιός ἐσσι    175
 ξεῖνος, ἐπεὶ πολλοὶ ἴσαν ἀνέρες ἡμέτερον δῶ
-
 ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.’
 ========================================
-
-AJC If they should see that man on his way to Ithaca,
+If they should see that man on his way to Ithaca,
 they'd all pray to be lighter on their feet 
-
-AJC rather than richer in gold and clothing.
+rather than richer in gold and clothing.
 But now he has thus been foully doomed to die, and with
-
-AJC no comfort for us, even if any man on earth
+no comfort for us, even if any man on earth
 should say that he will come: the day of his home-coming is lost.
-
-AJC But come, tell me this and recount it exactly:
-Who are you among men, and where are you from? Where is your city and your parents?
-
-AJC And what sort of ship did you arrive on: How did the sailors
+But come, tell me this and recount it truly:
+Who are you among men, and from where? Where is your city and your parents?
+And what sort of ship did you arrive on: How did the sailors
 bring you to Ithaca?  Who did they profess to be?
-
-AJC For I don't think that you came here on foot.
+For I don't think that you came here on foot.
 Tell me this truly, so that I might know it well,
-
-AJC are you just now visiting, or are you my father's friend,
+are you just now visiting, or are you my father's friend,
 since many others have been coming to our house,
-
-AJC and when he was wandering in the world of men."
+since he also was wandering in the world of men."
+========================================
