@@ -451,40 +451,28 @@ if indeed, being so tall, you yourself are Odysseus' son.
 ========================================
 αἰνῶς μὲν κεφαλήν τε καὶ ὄμματα καλὰ ἔοικας
 κείνῳ, ἐπεὶ θαμὰ τοῖον ἐμισγόμεθ᾽ ἀλλήλοισιν,
-
 πρίν γε τὸν ἐς Τροίην ἀναβήμεναι, ἔνθα περ ἄλλοι   210
 Ἀργείων οἱ ἄριστοι ἔβαν κοίλῃς ἐνὶ νηυσίν:
-
 ἐκ τοῦ δ᾽ οὔτ᾽ Ὀδυσῆα ἐγὼν ἴδον οὔτ᾽ ἔμ᾽ ἐκεῖνος.’
 τὴν δ᾽ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα:
-
 ‘τοιγὰρ ἐγώ τοι, ξεῖνε, μάλ᾽ ἀτρεκέως ἀγορεύσω.
 μήτηρ μέν τέ μέ φησι τοῦ ἔμμεναι, αὐτὰρ ἐγώ γε   215
-
 οὐκ οἶδ᾽: οὐ γάρ πώ τις ἑὸν γόνον αὐτὸς ἀνέγνω.
 ὡς δὴ ἐγώ γ᾽ ὄφελον μάκαρός νύ τευ ἔμμεναι υἱὸς
-
 ἀνέρος, ὃν κτεάτεσσιν ἑοῖς ἔπι γῆρας ἔτετμε.
 νῦν δ᾽ ὃς ἀποτμότατος γένετο θνητῶν ἀνθρώπων,
-
 τοῦ μ᾽ ἔκ φασι γενέσθαι, ἐπεὶ σύ με τοῦτ᾽ ἐρεείνεις.’    220
 ========================================
-AJC Indeed, in your head and your handsome eyes you greatly resemble him,
+Indeed, in your head and your handsome eyes you greatly resemble him,
 for we often mixed it up with each other,
-
-AJC at least until he left for Troy, where other men,
+at least until he left for Troy, where other men as well,
 the best of the Argives, went in their hollow ships:
-
-AJC from that time on I didn't see Odysseus, nor he me."
+from that time on I didn't see Odysseus, nor he me."
 Then wise Telemachus faced her and spoke again:
-
-AJC "Well, then, stranger, I'll tell you precisely.
-Indeed my mother told me that I am his, yet I for one
-
-AJC do not know: for no-one knows whose child he is.
+"Well, then, stranger, I'll tell you precisely.
+Indeed my mother tells me that I am his, yet I for one
+do not know: for no-one knows whose child he is.
 Would that I had been the son of some fortunate man,
-
-AJC whom old age overtook on his own estates.
+whom old age overtook on his own estates.
 But now this man has become the most unfortunate of mortal men,
-
-AJC they say that I was born of him, since you ask me this."
+they say that I was born of him, since you ask me this."
