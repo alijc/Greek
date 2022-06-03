@@ -655,51 +655,37 @@ sneaky Aigisthos, who slew his renowned father?
 
 καὶ σύ, φίλος, μάλα γάρ σ᾽ ὁρόω καλόν τε μέγαν τε,
 ἄλκιμος ἔσσ᾽, ἵνα τίς σε καὶ ὀψιγόνων ἐὺ εἴπῃ.
-
 αὐτὰρ ἐγὼν ἐπὶ νῆα θοὴν κατελεύσομαι ἤδη
 ἠδ᾽ ἑτάρους, οἵ πού με μάλ᾽ ἀσχαλόωσι μένοντες:
-
 σοὶ δ᾽ αὐτῷ μελέτω, καὶ ἐμῶν ἐμπάζεο μύθων.’    305
 τὴν δ᾽ αὖ Τηλέμαχος πεπνυμένος ἀντίον ηὔδα:
-
 ‘ξεῖν᾽, ἦ τοι μὲν ταῦτα φίλα φρονέων ἀγορεύεις,
 ὥς τε πατὴρ ᾧ παιδί, καὶ οὔ ποτε λήσομαι αὐτῶν.
-
 ἀλλ᾽ ἄγε νῦν ἐπίμεινον, ἐπειγόμενός περ ὁδοῖο,
 ὄφρα λοεσσάμενός τε τεταρπόμενός τε φίλον κῆρ,   310
-
 δῶρον ἔχων ἐπὶ νῆα κίῃς, χαίρων ἐνὶ θυμῷ,
 τιμῆεν, μάλα καλόν, ὅ τοι κειμήλιον ἔσται
-
 ἐξ ἐμεῦ, οἷα φίλοι ξεῖνοι ξείνοισι διδοῦσι.’
 ========================================
 And you, buddy, for I see that you are very handsome and tall,
 be brave, and any of those not yet born might speak well of you, 
-
 but I'm heading down to my swift ship right now,
 and to my comrades, who are surely waiting on pins and needles for me:
-
 but you take great care and heed my words."
 Wise Telemachus spoke to her in turn:
-
 "Sage friend, truly, what you say is well meant,
 like a father to his son, and I'll never forget it.
-
 But come, stay awhile, you who yearn for the road,
 and when you've bathed and cheered your heart,
-
 then may you go to your ship rejoicing in your soul, bearing a gift
 that is prized and very beautiful, which will be an keepsake for you
-
 from me, of the sort that dear friends give to friends."
 ========================================
 
 τὸν δ᾽ ἠμείβετ᾽ ἔπειτα θεά, γλαυκῶπις Ἀθήνη:
 ‘μή μ᾽ ἔτι νῦν κατέρυκε, λιλαιόμενόν περ ὁδοῖο.   315
-
 δῶρον δ᾽ ὅττι κέ μοι δοῦναι φίλον ἦτορ ἀνώγῃ,
 αὖτις ἀνερχομένῳ δόμεναι οἶκόνδε φέρεσθαι,
-
 καὶ μάλα καλὸν ἑλών: σοὶ δ᾽ ἄξιον ἔσται ἀμοιβῆς.’
 ἡ μὲν ἄρ᾽ ὣς εἰποῦσ᾽ ἀπέβη γλαυκῶπις Ἀθήνη,
 
@@ -718,26 +704,26 @@ from me, of the sort that dear friends give to friends."
 τοῦ δ᾽ ὑπερωιόθεν φρεσὶ σύνθετο θέσπιν ἀοιδὴν
 κούρη Ἰκαρίοιο, περίφρων Πηνελόπεια:
 ========================================
-Then the goddess, Athena of the gleaming eyes, answered him:
+AJC Then the goddess, Athena of the gleaming eyes, answered him:
 "Don't hold me back any longer, I'm dead set on traveling.
 
-Your dear heart might order you to give me a gift,
-back/again to one returning to give homeward to be borne,
+AJC The gift that your dear heart urges you to give me,
+give it to me when I return again, to carry home,
 
-and very fine one having taken away: it'd be a fair recompense for you."
-And after they had so spoken Athena of the gleaming eyes departed,
+AJC having chosen a very fine one: that will be a fair recompense for you."
+And after speaking thus Athena of the gleaming eyes departed,
 
-a bird unnoticedly flew past: in the soul
-one.placed might and courage, and one.put him of father
+AJC and flew away, unnoticed, as a bird: she put 
+might and courage in his heart, and called his father to his mind
 
-very much more yet or the thing before.  He to his guts having reflected
-he was astounded down his soul: for he presaged a god to be.
+AJC even more than before.  He reflected inwardly,
+awe-struck through his soul: for he felt that this was a god.
 
-The god-like man at once approached the wooers.
+AJC This god-like man at once approached the wooers.
 The renowned bard was singing to them, they in silence
 
-sat and listened: the mournful home-coming of the Achaeans he sang,
-Pallas Athena ordered him out of Troy.
+AJC sat and listened: he sang of the Achaeans' mournful return from Troy,
+which Pallas Athena had commanded.
 
-of him like from an upper room guts one.placed the god-inspired song
-a girl of Icarian, the thoughtful Penelope:
+AJC In an upper chamber a daughter of the Icarian Sea, thoughtful Penelope,
+saved his divinely inspired song in her heart.
