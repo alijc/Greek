@@ -719,13 +719,10 @@ listened to the divinely inspired song.
 ========================================
 κλίμακα δ᾽ ὑψηλὴν κατεβήσετο οἷο δόμοιο,    330
 οὐκ οἴη, ἅμα τῇ γε καὶ ἀμφίπολοι δύ᾽ ἕποντο.
-
 ἡ δ᾽ ὅτε δὴ μνηστῆρας ἀφίκετο δῖα γυναικῶν,
 στῆ ῥα παρὰ σταθμὸν τέγεος πύκα ποιητοῖο,
-
 ἄντα παρειάων σχομένη λιπαρὰ κρήδεμνα:
 ἀμφίπολος δ᾽ ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη.    335
-
 δακρύσασα δ᾽ ἔπειτα προσηύδα θεῖον ἀοιδόν:
 ‘Φήμιε, πολλὰ γὰρ ἄλλα βροτῶν θελκτήρια οἶδας,
 
@@ -735,32 +732,32 @@ listened to the divinely inspired song.
 οἶνον πινόντων: ταύτης δ᾽ ἀποπαύε᾽ ἀοιδῆς    340
 λυγρῆς, ἥ τέ μοι αἰεὶ ἐνὶ στήθεσσι φίλον κῆρ
 
-.. τείρει, ἐπεί με μάλιστα καθίκετο πένθος ἄλαστον.
+τείρει, ἐπεί με μάλιστα καθίκετο πένθος ἄλαστον.
 τοίην γὰρ κεφαλὴν ποθέω μεμνημένη αἰεί,
 
-.. ἀνδρός, τοῦ κλέος εὐρὺ καθ᾽ Ἑλλάδα καὶ μέσον Ἄργος.’
+ἀνδρός, τοῦ κλέος εὐρὺ καθ᾽ Ἑλλάδα καὶ μέσον Ἄργος.’
 ========================================
 
-She walked down the long staircase of her house,
-but not alone, while she descended, her handmaids followed.
+AJC She walked down the long staircase of her house,
+but not alone, as she descended, her handmaids followed.
 
-where then indeed she approached the wooers in the midst of her women,
-she stood there and then beside the bearing post of the strongly built roof,
+AJC Then she approached the wooers in the midst of her women,
+and stopped beside the post bearing the weight of the well-built roof,
 
-over against of her cheeks she wore a shiny head-dress:
-a trusty handmaid there and then to her on either side stood.
+AJC before her cheeks she wore a brilliant veil:
+a trusty handmaid stood just to either side.
 
-having wept then she addressed the god-like singer:
-"Phineus, for many other charms/spells of mortal men you know,
+AJC She wept and then addressed the god-like singer:
+"Phineus, you know many other songs to charm mortal men,
 
-the work of men and of gods, and the things the bards sing of:
-of the in them indeed he was singing having sat, to him in silence
+AJC the deeds of men and gods, that bards make famous:
+sit down and sing them one of those instead, and let them drink
 
->wine they should drink: of this mournful song he left off,
-and to me always in breast dear heart oppresses,
+AJC their wine in silence: leave off that mournful song,
+it always distresses the dear heart in my breast,
 
-when >me very much insufferable grief came down.
-for >such head I yearn for having been reminded always,
+AJC since incalcuable grief has touched me.
+For I yearn for such a head, always minded of my man,
 
-of a man, of him a wide rumour down/according to Hellas and middle Argus."
+AJC his wide-reaching fame throughout Hellas and Middle Argus."
 
