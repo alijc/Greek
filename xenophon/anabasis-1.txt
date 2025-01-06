@@ -3,7 +3,6 @@ I.1.
 νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου,
 ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.
 
-
 To Darius and Parysatis were born two sons, the elder Artaxerxes,
 and the younger Cyrus. Now when Darius was ill and felt his death near,
 he wanted both children to be present.
@@ -21,3 +20,31 @@ but he sent for Cyrus from the region that he had made him satrap of,
 and had also appointed him general of all those who muster at Castolus’ Plain.
 Cyrus then embarked, taking along Tissaphernes as his friend,
 and three hundred of the Greek hoplites and their commander Xenias of Parrhasia.
+
+
+3. ἐπεὶ δὲ ἐτελεύτησε Δαρεῖος καὶ κατέστη εἰς τὴν βασιλείαν Ἀρταξέρξης,
+Τισσαφέρνης διαβάλλει τὸν Κῦρον πρὸς τὸν ἀδελφὸν ὡς ἐπιβουλεύοι αὐτῷ.
+ὁ δὲ πείθεται καὶ συλλαμβάνει Κῦρον ὡς ἀποκτενῶν·
+ἡ δὲ μήτηρ ἐξαιτησαμένη αὐτὸν ἀποπέμπει πάλιν ἐπὶ τὴν ἀρχήν.
+
+After Darius passed away and Artaxerces was appointed to the kingdom,
+Tissaphernes denounced Cyrus to his brother,
+accusing him of plotting against him.
+Artaxerces was persuaded and arrested Cyrus, intending to kill him -
+but his mother gained his pardon and sent him back to his province.
+
+
+4. ὁ δ ̓ ὡς ἀπῆλθε κινδυνεύσας καὶ ἀτιμασθείς,
+βουλεύεται ὅπως μήποτε ἔτι ἔσται ἐπὶ τῷ ἀδελφῷ,
+ἀλλά, ἢν δύνηται, βασιλεύσει ἀντ ̓ ἐκείνου.
+Παρύσατις μὲν δὴ ἡ μήτηρ ὑπῆρχε τῷ Κύρῳ,
+φιλοῦσα αὐτὸν μᾶλλον ἢ τὸν βασιλεύοντα Ἀρταξέρξην.
+
+Now when he left, having been in danger and dishonor,
+he thought on how to keep from being in his brother's power any more,
+but that, if he could, he would rule over him.
+Certainly, his mother Parysatis was devoted to Cyrus, loving him more
+than the ruler Artaxerces.
+
+
+5. ὅστις δ ̓ ἀφικνεῖτο τῶν παρὰ
