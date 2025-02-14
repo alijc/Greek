@@ -1,4 +1,4 @@
-I.1.
+I.1
 Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης,
 νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου,
 ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.
@@ -8,7 +8,7 @@ and the younger Cyrus. Now when Darius was ill and felt his death near,
 he wanted both children to be present.
 
 
-2. ὁ μὲν οὖν πρεσβύτερος παρὼν ἐτύγχανε·
+I.2. ὁ μὲν οὖν πρεσβύτερος παρὼν ἐτύγχανε·
 Κῦρον δὲ μεταπέμπεται ἀπὸ τῆς ἀρχῆς ἧς αὐτὸν σατράπην ἐποίησε,
 καὶ στρατηγὸν δὲ αὐτὸν ἀπέδειξε πάντων ὅσοι ἐς Καστωλοῦ πεδίον ἁθροίζονται.
 ἀναβαίνει οὖν ὁ Κῦρος λαβὼν Τισσαφέρνην ὡς φίλον,
@@ -22,7 +22,7 @@ Cyrus then embarked, taking along Tissaphernes as his friend,
 and three hundred of the Greek hoplites and their commander Xenias of Parrhasia.
 
 
-3. ἐπεὶ δὲ ἐτελεύτησε Δαρεῖος καὶ κατέστη εἰς τὴν βασιλείαν Ἀρταξέρξης,
+I.3. ἐπεὶ δὲ ἐτελεύτησε Δαρεῖος καὶ κατέστη εἰς τὴν βασιλείαν Ἀρταξέρξης,
 Τισσαφέρνης διαβάλλει τὸν Κῦρον πρὸς τὸν ἀδελφὸν ὡς ἐπιβουλεύοι αὐτῷ.
 ὁ δὲ πείθεται καὶ συλλαμβάνει Κῦρον ὡς ἀποκτενῶν·
 ἡ δὲ μήτηρ ἐξαιτησαμένη αὐτὸν ἀποπέμπει πάλιν ἐπὶ τὴν ἀρχήν.
@@ -34,7 +34,7 @@ Artaxerces was persuaded and arrested Cyrus, intending to kill him -
 but his mother gained his pardon and sent him back to his province.
 
 
-4. ὁ δ ̓ ὡς ἀπῆλθε κινδυνεύσας καὶ ἀτιμασθείς,
+I.4. ὁ δ ̓ ὡς ἀπῆλθε κινδυνεύσας καὶ ἀτιμασθείς,
 βουλεύεται ὅπως μήποτε ἔτι ἔσται ἐπὶ τῷ ἀδελφῷ,
 ἀλλά, ἢν δύνηται, βασιλεύσει ἀντ ̓ ἐκείνου.
 Παρύσατις μὲν δὴ ἡ μήτηρ ὑπῆρχε τῷ Κύρῳ,
@@ -59,7 +59,7 @@ He also took care that the barbarians at his side
 would be capable warriors and feel favorably towards him.
 
 
-6. τὴν δὲ Ἑλληνικὴν δύναμιν ἥθροιζεν ὡς μάλιστα ἐδύνατο ἐπικρυπτόμενος,
+I.6. τὴν δὲ Ἑλληνικὴν δύναμιν ἥθροιζεν ὡς μάλιστα ἐδύνατο ἐπικρυπτόμενος,
 ὅπως ὅτι ἀπαρασκευότατον λάβοι βασιλέα.
 ὧδε οὖν ἐποιεῖτο τὴν συλλογήν.
 ὁπόσας εἶχε φυλακὰς ἐν ταῖς πόλεσι παρήγγειλε τοῖς φρουράρχοις ἑκάστοις
@@ -79,7 +79,7 @@ as the king had given them to him,
 but they had later revolted, all except Miletus, to Cyrus.
 
 
-7. ἐν Μιλήτῳ δὲ Τισσαφέρνης προαισθόμενος τὰ αὐτὰ ταῦτα βουλευομένους
+I.7. ἐν Μιλήτῳ δὲ Τισσαφέρνης προαισθόμενος τὰ αὐτὰ ταῦτα βουλευομένους
 ἀποστῆναι πρὸς Κῦρον, τοὺς μὲν αὐτῶν ἀπέκτεινε τοὺς δ ̓ ἐξέβαλεν.
 ὁ δὲ Κῦρος ὑπολαβὼν τοὺς φεύγοντας συλλέξας στράτευμα ἐπολιόρκει Μίλητον
 καὶ κατὰ γῆν καὶ κατὰ θάλατταν καὶ ἐπειρᾶτο κατάγειν τοὺς ἐκπεπτωκότας.
@@ -93,7 +93,7 @@ tried to restore the city to the exiles.
 And this was yet another pretext for him to gather an army.
 
 
-8. πρὸς δὲ βασιλέα πέμπων ἠξίου ἀδελφὸς ὢν αὐτοῦ δοθῆναι οἷ ταύτας
+I.8. πρὸς δὲ βασιλέα πέμπων ἠξίου ἀδελφὸς ὢν αὐτοῦ δοθῆναι οἷ ταύτας
 τὰς πόλεις μᾶλλον ἢ Τισσαφέρνην ἄρχειν αὐτῶν,
 καὶ ἡ μήτηρ συνέπραττεν αὐτῷ ταῦτα·
 ὥστε βασιλεὺς τὴν μὲν πρὸς ἑαυτὸν ἐπιβουλὴν οὐκ ᾐσθάνετο,
@@ -112,7 +112,7 @@ And in fact, Cyrus sent the king regular tributes
 from the cities of Tissaphernes that he happened to hold.
 
 
-9. ἄλλο δὲ στράτευμα αὐτῷ συνελέγετο ἐν Χερρονήσῳ
+I.9. ἄλλο δὲ στράτευμα αὐτῷ συνελέγετο ἐν Χερρονήσῳ
 τῇ κατ̓ ἀντιπέρας Ἀβύδου τόνδε τὸν τρόπον.
 Κλέαρχος Λακεδαιμόνιος φυγὰς ἦν· τούτῳ συγγενόμενος ὁ
 Κῦρος ἠγάσθη τε αὐτὸν καὶ δίδωσιν αὐτῷ μυρίους δαρεικούς.
@@ -135,7 +135,7 @@ contributed money to him for the soldiers' rations.
 And thus this fresh army was secretly maintained for him.
 
 
-10. Ἀρίστιππος δὲ ὁ Θετταλὸς ξένος ὢν ἐτύγχανεν αὐτῷ,
+I.10. Ἀρίστιππος δὲ ὁ Θετταλὸς ξένος ὢν ἐτύγχανεν αὐτῷ,
 καὶ πιεζόμενος ὑπὸ τῶν οἴκοι ἀντιστασιωτῶν ἔρχεται πρὸς τὸν Κῦρον
 καὶ αἰτεῖ αὐτὸν εἰς δισχιλίους ξένους καὶ τριῶν μηνῶν μισθόν,
 ὡς οὕτως περιγενόμενος ἂν τῶν ἀντιστασιωτῶν.
@@ -154,7 +154,7 @@ until he had a chance to consult with him.
 And so another army was built up for him in Thessaly without being noticed.
 
 
-11. Πρόξενον δὲ τὸν Βοιώτιον ξένον ὄντα ἐκέλευσε λαβόντα ἄνδρας
+I.11. Πρόξενον δὲ τὸν Βοιώτιον ξένον ὄντα ἐκέλευσε λαβόντα ἄνδρας
 ὅτι πλείστους παραγενέσθαι, ὡς ἐς Πισίδας βουλόμενος στρατεύεσθαι,
 ὡς πράγματα παρεχόντων τῶν Πισιδῶν τῇ ἑαυτοῦ χώρᾳ.
 Σοφαίνετον δὲ τὸν Στυμφάλιον καὶ Σωκράτην τὸν Ἀχαιόν,
@@ -171,4 +171,41 @@ who were also friends of his, to march with as many men as they could
 as if to fight Tissaphernes, along with the Milesian exiles.
 And they acted in this manner.
 
+
+II.1. ἐπεὶ δ ̓ ἐδόκει ἤδη πορεύεσθαι αὐτῷ ἄνω, τὴν μὲν πρόφασιν ἐποιεῖτο
+ὡς Πισίδας βουλόμενος ἐκβαλεῖν παντάπασιν ἐκ τῆς χώρας·
+καὶ ἁθροίζει ὡς ἐπὶ τούτους τό τε βαρβαρικὸν καὶ τὸ Ἑλληνικόν.
+ἐνταῦθα καὶ παραγγέλλει τῷ τε Κλεάρχῳ λαβόντι ἥκειν ὅσον
+ἦν αὐτῷ στράτευμα καὶ τῷ Ἀριστίππῳ συναλλαγέντι πρὸς
+τοὺς οἴκοι ἀποπέμψαι πρὸς ἑαυτὸν ὃ εἶχε στράτευμα·
+καὶ Ξενίᾳ τῷ Ἀρκάδι, ὃς αὐτῷ προειστήκει τοῦ ἐν ταῖς πόλεσι ξενικοῦ,
+ἥκειν παραγγέλλει λαβόντα τοὺς ἄλλους πλὴν ὁπόσοι ἱκανοὶ ἦσαν
+τὰς ἀκροπόλεις φυλάττειν.
+ἐκάλεσε δὲ καὶ τοὺς Μίλητον πολιορκοῦντας,
+
+When it seemed a good time for him to march inland,
+he claimed that he wanted to totally expel the Pisidians from the country,
+and mustered both his barbarian and Greek armies as if against them.
+He sent orders to Clearchus to come there with as large an army as he could,
+and to Aristippus to reconcile with his enemies at home
+and send him however army he had:
+and commanded Xenias the Arkadian,
+who was in charge of the foreign army in the cities,
+to leave only enough men to defend the citadels and sail to him with the rest.
+He summoned the men who were besieging Miletus
+
+
+
+II.2. καὶ τοὺς φυγάδας ἐκέλευσε σὺν αὐτῷ στρατεύεσθαι,
+ὑποσχόμενος αὐτοῖς, εἰ καλῶς καταπράξειεν ἐφ ̓ ἃ ἐστρατεύετο,
+μὴ πρόσθεν παύσεσθαι πρὶν αὐτοὺς καταγάγοι οἴκαδε.
+οἱ δὲ ἡδέως ἐπείθοντο· ἐπίστευον γὰρ αὐτῷ·
+καὶ λαβόντες τὰ ὅπλα παρῆσαν εἰς Σάρδεις.
+
+and also ordered the exiles to advance with him,
+promising them that if he accomplished what he had set out to do,
+he would not rest until he had led them back home.
+And they happily agreed, for they trusted him,
+and took up arms and readied themselves at Sardis.
+ 
 
