@@ -226,13 +226,19 @@ and three hundred light troops -
 both...
 
 
-II.4. οὗτος καὶ ὁ Σωκράτης τῶν ἀμφὶ Μίλητον στρατευο-
-μένων. οὗτοι μὲν εἰς Σάρδεις αὐτῷ ἀφίκοντο. Τισσαφέρνης
-δὲ κατανοήσας ταῦτα, καὶ μείζονα ἡγησάμενος εἶναι ἢ ὡς ἐπὶ
-Πισίδας τὴν παρασκευήν, πορεύεται ὡς βασιλέα ᾗ ἐδύνατο
-τάχιστα ἱππέας ἔχων ὡς πεντακοσίους.
+II.4. οὗτος καὶ ὁ Σωκράτης τῶν ἀμφὶ Μίλητον στρατευομένων.
+οὗτοι μὲν εἰς Σάρδεις αὐτῷ ἀφίκοντο.
+Τισσαφέρνης δὲ κατανοήσας ταῦτα,
+καὶ μείζονα ἡγησάμενος εἶναι ἢ ὡς ἐπὶ Πισίδας τὴν παρασκευήν,
+πορεύεται ὡς βασιλέα ᾗ ἐδύνατο τάχιστα ἱππέας ἔχων ὡς πεντακοσίους.
 
 ...he and Socrates were among those who had fought against Miletus.
+These men came to him at Sardis.
+Tissaphernes caught wind of this,
+and thinking too much preparation to be against the Pisidians,
+set out to the king as swiftly as he could
+along with five hundred horsemen.
+
 
 
 II.5. καὶ βασιλεὺς μὲν
