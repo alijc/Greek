@@ -255,7 +255,7 @@ This river is two hundred feet wide -
 a pontoon bridge was built across it, using boats lashed together.
 
 
-6. τοῦτον διαβὰς ἐξελαύνει διὰ Φρυγίας σταθμὸν ἕνα παρασάγγας ὀκτὼ εἰς Κολοσσάς,
+II.6. τοῦτον διαβὰς ἐξελαύνει διὰ Φρυγίας σταθμὸν ἕνα παρασάγγας ὀκτὼ εἰς Κολοσσάς,
 πόλιν οἰκουμένην καὶ εὐδαίμονα καὶ μεγάλην.
 ἐνταῦθα ἔμεινεν ἡμέρας ἑπτά· καὶ ἧκε Μένων
 ὁ Θετταλὸς ὁπλίτας ἔχων χιλίους καὶ πελταστὰς πεντακοσίους,
@@ -268,7 +268,7 @@ with a thousand heavily armed men and five hundred lighter ones -
 Dolopians and Aenianians and Olynthians.
 
 
-7. ἐντεῦθεν ἐξελαύνει σταθμοὺς τρεῖς παρασάγγας εἴκοσιν εἰς Κελαινάς,
+II.7. ἐντεῦθεν ἐξελαύνει σταθμοὺς τρεῖς παρασάγγας εἴκοσιν εἰς Κελαινάς,
 τῆς Φρυγίας πόλιν οἰκουμένην, μεγάλην καὶ εὐδαίμονα.
 ἐνταῦθα Κύρῳ βασίλεια ἦν καὶ παράδεισος μέγας ἀγρίων θηρίων πλήρης,
 ἃ ἐκεῖνος ἐθήρευεν ἀπὸ ἵππου, ὁπότε γυμνάσαι βούλοιτο ἑαυτόν τε καὶ τοὺς ἵππους.
@@ -284,7 +284,7 @@ The Maeander River flows through the middle of the park -
 its sources are under the palace - and through the city of Celaenae.
 
 
-8. ἔστι δὲ καὶ μεγάλου βασιλέως βασίλεια ἐν Κελαιναῖς ἐρυμνὰ
+II.8. ἔστι δὲ καὶ μεγάλου βασιλέως βασίλεια ἐν Κελαιναῖς ἐρυμνὰ
 ἐπὶ ταῖς πηγαῖς τοῦ Μαρσύου ποταμοῦ ὑπὸ τῇ ἀκροπόλει·
 ῥεῖ δὲ καὶ οὗτος διὰ τῆς πόλεως καὶ ἐμβάλλει εἰς τὸν Μαίανδρον·
 τοῦ δὲ Μαρσύου τὸ εὖρός ἐστιν εἴκοσι καὶ πέντε
@@ -302,7 +302,7 @@ and to have hung the skin in the cave that the sources spring from -
 due to this the river is called Marsyas.
 
 
-9. ἐνταῦθα Ξέρξης, ὅτε ἐκ τῆς Ἑλλάδος ἡττηθεὶς τῇ μάχῃ ἀπεχώρει,
+II.9. ἐνταῦθα Ξέρξης, ὅτε ἐκ τῆς Ἑλλάδος ἡττηθεὶς τῇ μάχῃ ἀπεχώρει,
 λέγεται οἰκοδομῆσαι ταῦτά τε τὰ βασίλεια καὶ τὴν Κελαινῶν ἀκρόπολιν.
 ἐνταῦθα ἔμεινε Κῦρος ἡμέρας τριάκοντα·
 καὶ ἧκε Κλέαρχος ὁ Λακεδαιμόνιος φυγὰς ἔχων ὁπλίτας χιλίους
@@ -315,28 +315,34 @@ due to this the river is called Marsyas.
 καὶ ἐγένοντο οἱ σύμπαντες ὁπλῖται μὲν μύριοι χίλιοι,
 πελτασταὶ δὲ ἀμφὶ τοὺς δισχιλίους.
 
-There Xerxes, after he retreeated from Greece after his defeat in the battle,
-is said to have built both the palace and Celaenae's citadel.
+There Xerxes, after retreating after his defeat in the battle with Greece,
+is said to have built both this palace and Celaenae's citadel.
 There Cyrus remained for thirty days -
-and Clearchus the Spartan exile was there
+and Clearchus the Spartan exile came
 with a thousand hoplites and eight hundred shield-bearing Thracians
 and two hundred Cretan archers.
-At the same time Sosis the Syracusan was there with three hundred hoplites,
+At the same time Sosis the Syracusan came with three hundred hoplites,
 and Sophaenetus the Arcadian with a thousand hoplites.
 And there Cyrus conducted a review and a count of the Greeks in the park,
-and they became the hoplites altogether uncountable,
+and the hoplites came to eleven thousand altogether,
 the shield-bearers around two thousand.
 
 
-10. ἐντεῦθεν ἐξελαύνει στα-
-θμοὺς δύο παρασάγγας δέκα εἰς Πέλτας, πόλιν οἰκουμένην.
-ἐνταῦθ ̓ ἔμεινεν ἡμέρας τρεῖς· ἐν αἷς Ξενίας ὁ Ἀρκὰς τὰ
-Λύκαια ἔθυσε καὶ ἀγῶνα ἔθηκε· τὰ δὲ ἆθλα ἦσαν στλεγ-
-γίδες χρυσαῖ· ἐθεώρει δὲ τὸν ἀγῶνα καὶ Κῦρος.
+II.10. ἐντεῦθεν ἐξελαύνει σταθμοὺς δύο παρασάγγας δέκα εἰς Πέλτας,
+πόλιν οἰκουμένην.
+ἐνταῦθ̓ ἔμεινεν ἡμέρας τρεῖς·
+ἐν αἷς Ξενίας ὁ Ἀρκὰς τὰ Λύκαια ἔθυσε καὶ ἀγῶνα ἔθηκε·
+τὰ δὲ ἆθλα ἦσαν στλεγγίδες χρυσαῖ· ἐθεώρει δὲ τὸν ἀγῶνα καὶ Κῦρος.
+
+From there he drove for two stages in ten parasangs to Peltae,
+an inhabited city.
+There he stayed three days -
+and Xenias the Arcadian made sacrifices for the festival of Lycaea
+and arranged contests there - the prizes were golden strigils -
+and Cyrus watched the contests.
 
 
-
-11. ἐντεῦθεν
+II.11. ἐντεῦθεν
 ἐξελαύνει σταθμοὺς δύο παρασάγγας δώδεκα ἐς Κεράμων
 Ἀγοράν, πόλιν οἰκουμένην, ἐσχάτην πρὸς τῇ Μυσίᾳ χώρᾳ.
 ἐντεῦθεν ἐξελαύνει σταθμοὺς τρεῖς παρασάγγας τριάκοντα
