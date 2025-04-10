@@ -442,8 +442,8 @@ and, sending his interpreter Pigres to the Greeks' commanders,
 he ordered them to present arms and advance the entire battle-array.
 And they relayed these orders to the soldiers:
 and when the trumpet sounded, they presented arms and charged.
-From this advancing more swiftly, they gave a shout and
-of their own accord broke into a run towards the tents,
+Then, advancing more swiftly, they gave a shout and
+of their own accord started running towards the tents,
 
 
 2.18. τῶν δὲ βαρβάρων φόβος πολύς,
@@ -453,9 +453,12 @@ of their own accord broke into a run towards the tents,
 ἡ δὲ Κίλισσα ἰδοῦσα τὴν λαμπρότητα καὶ τὴν τάξιν τοῦ στρατεύματος ἐθαύμασε.
 Κῦρος δὲ ἥσθη τὸν ἐκ τῶν Ἑλλήνων εἰς τοὺς βαρβάρους φόβον ἰδών.
 
-
-
-
+and the barbarians felt great fear.
+The Cilician queen fled in her carriage
+and the men in the market places fled, abandoning their wares,
+while the Greeks, laughing, walked up to the tents.
+The Cilician queen marvelled when she saw the army's brilliance and management,
+while Cyrus was delighted to see the barbarians' fear of the Greeks.
 
 
 19. ἐντεῦθεν ἐξελαύνει σταθμοὺς τρεῖς
