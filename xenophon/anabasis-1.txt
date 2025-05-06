@@ -529,7 +529,7 @@ on every side from sea to sea.
 οὗ ἦν τὰ Συεννέσιος βασίλεια τοῦ Κιλίκων βασιλέως·
 διὰ μέσου δὲ τῆς πόλεως ῥεῖ ποταμὸς Κύδνος ὄνομα, εὖρος δύο πλέθρων.
 
-Having past through this plain he drove twenty-five parasangs in four stages
+After passing through this plain he drove twenty-five parasangs in four stages
 to Tarsus, a large and prosperous Cilician city,
 where the palace of Syennesis, the king of the Cilicians, was -
 and through the middle of this city flows a river named the Cydnus,
@@ -540,6 +540,9 @@ two hundred feet across.
 εἰς χωρίον ὀχυρὸν ἐπὶ τὰ ὄρη πλὴν οἱ τὰ καπηλεῖα ἔχοντες·
 ἔμειναν δὲ καὶ οἱ παρὰ τὴν θάλατταν οἰκοῦντες ἐν Σόλοις καὶ ἐν Ἰσσοῖς.
 
+The inhabitants, along with Syennesis, abandoned this city for a safe region
+in the mountains, except for those who owned shops -
+these stayed and also those living along the sea in Soli and Issus.
 
 
 2.25. Ἐπύαξα δὲ ἡ Συεννέσιος γυνὴ προτέρα Κύρου πέντε ἡμέραις
