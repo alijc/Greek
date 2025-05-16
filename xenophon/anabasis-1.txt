@@ -557,17 +557,24 @@ but two companies of Menon's army had been lost while crossing the mountains
 to the plain  -
 some said that they'd been cut down by the Cilicians while plundering,
 while others that they'd fallen behind and weren't able to have found
-the rest of the army or the roads and wandered about until they perished -
-in either case they were a hundred hoplites.
+the rest of the army or the roads and wandered about until they perished.
+In either case they were a hundred hoplites.
 
 
-2.26. οἱ δ ̓ ἄλλοι ἐπεὶ ἧκον, τήν
-τε πόλιν τοὺς Ταρσοὺς διήρπασαν, διὰ τὸν ὄλεθρον τῶν
-συστρατιωτῶν ὀργιζόμενοι, καὶ τὰ βασίλεια τὰ ἐν αὐτῇ.
-Κῦρος δ ̓ ἐπεὶ εἰσήλασεν εἰς τὴν πόλιν, μετεπέμπετο τὸν
-Συέννεσιν πρὸς ἑαυτόν· ὁ δ ̓ οὔτε πρότερον οὐδενί πω κρείτ-
-τονι ἑαυτοῦ εἰς χεῖρας ἐλθεῖν ἔφη οὔτε τότε Κύρῳ ἰέναι
-ἤθελε, πρὶν ἡ γυνὴ αὐτὸν ἔπεισε καὶ πίστεις ἔλαβε.
+2.26. οἱ δ̓ ἄλλοι ἐπεὶ ἧκον, τήν τε πόλιν τοὺς Ταρσοὺς διήρπασαν,
+διὰ τὸν ὄλεθρον τῶν συστρατιωτῶν ὀργιζόμενοι, καὶ τὰ βασίλεια τὰ ἐν αὐτῇ.
+Κῦρος δ̓ ἐπεὶ εἰσήλασεν εἰς τὴν πόλιν, μετεπέμπετο τὸν Συέννεσιν πρὸς ἑαυτόν·
+ὁ δ̓ οὔτε πρότερον οὐδενί πω κρείττονι ἑαυτοῦ εἰς χεῖρας ἐλθεῖν ἔφη οὔτε τότε
+Κύρῳ ἰέναι ἤθελε, πρὶν ἡ γυνὴ αὐτὸν ἔπεισε καὶ πίστεις ἔλαβε.
+
+Now when the rest of the army arrived, they plundered both the city of Tarsus
+and the palace in it, angered due to the deaths of their fellow soldiers.
+And when Cyrus marched into the city,
+he called for Syennesis to appear before him - but Syennesis kept saying that 
+he had never before come into the hands of anyone more powerful than himself,
+and did not wish to now come to into Cyrus',
+until his wife had persuaded him and he had received pledges.
+
 
 
 27. μετὰ
