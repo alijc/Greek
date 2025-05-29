@@ -629,17 +629,24 @@ and then he spoke thusly:
 "Fellow soldiers, marvel not that I bear these current actions with difficulty.
 For Cyrus has become my friend and honored me when I fled my native land
 both in other ways and in giving me many gold coins -
-and when I received this I neither deposited it into my own funds
+and when I received this I neither deposited it for myself
 nor squandered it, but spent it on you.
 
 
 3.4. καὶ πρῶτον μὲν πρὸς τοὺς Θρᾷκας ἐπολέμησα,
-καὶ ὑπὲρ τῆς Ἑλλάδος ἐτιμωρούμην μεθ ̓ ὑμῶν,
+καὶ ὑπὲρ τῆς Ἑλλάδος ἐτιμωρούμην μεθ̓ ὑμῶν,
 ἐκ τῆς Χερρονήσου αὐτοὺς ἐξελαύνων βουλομένους ἀφαιρεῖσθαι τοὺς ἐνοικοῦντας
 Ἕλληνας τὴν γῆν.
 ἐπειδὴ δὲ Κῦρος ἐκάλει, λαβὼν ὑμᾶς ἐπορευόμην,
 ἵνα εἴ τι δέοιτο ὠφελοίην αὐτὸν ἀνθ̓ ὧν εὖ ἔπαθον ὑπ ̓ ἐκείνου.
 
+And first I fought against the Thracians,
+and sought vengeance on behalf of Greece along with you,
+driving out of Crimea those who wished to deprive
+the Greeks living there of their land.
+Then when Cyrus summoned me, I took you and marched,
+in order to aid him if he should need it,
+in return for the good treatment that I had from him.
 
 
 3.5 ἐπεὶ δὲ ὑμεῖς οὐ βούλεσθε συμπορεύεσθαι,
