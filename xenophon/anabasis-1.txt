@@ -702,25 +702,35 @@ without letting the soldiers know, to tell him to be confident,
 as everything would be settled for the good.
 
 
+3.9. μεταπέμπεσθαι δ̓ ἐκέλευεν αὐτόν· αὐτὸς δ̓ οὐκ ἔφη ἰέναι.
+μετὰ δὲ ταῦτα συναγαγὼν τούς θ̓ ἑαυτοῦ στρατιώτας καὶ τοὺς προσελθόντας αὐτῷ καὶ
+τῶν ἄλλων τὸν βουλόμενον, ἔλεξε τοιάδε.
+“ἄνδρες στρατιῶται, τὰ μὲν δὴ Κύρου δῆλον ὅτι οὕτως ἔχει πρὸς ἡμᾶς ὥσπερ τὰ
+ἡμέτερα πρὸς ἐκεῖνον· οὔτε γὰρ ἡμεῖς ἐκείνου ἔτι στρατιῶται,
+ἐπεί γε οὐ συνεπόμεθα αὐτῷ, οὔτε ἐκεῖνος ἔτι ἡμῖν μισθοδότης.
+
+But he urged him to keep summoning him - while he would refuse to come.
+After this, having assembled both his soldiers and the ones who'd joined him,
+and some others who were willing, he spoke as follows:
+"Fellow soldiers, certainly it is clear that Cyrus' business towards us
+is just as ours towards him - for we are no longer his soldiers, 
+since we do not follow him, nor is he still our paymaster.
 
 
-9. μεταπέμπεσθαι δ ̓ ἐκέλευεν αὐτόν· αὐτὸς δ ̓
-5
-οὐκ ἔφη ἰέναι. μετὰ δὲ ταῦτα συναγαγὼν τούς θ ̓ ἑαυτοῦ
-στρατιώτας καὶ τοὺς προσελθόντας αὐτῷ καὶ τῶν ἄλλων
-τὸν βουλόμενον, ἔλεξε τοιάδε. “ἄνδρες στρατιῶται, τὰ μὲν
-δὴ Κύρου δῆλον ὅτι οὕτως ἔχει πρὸς ἡμᾶς ὥσπερ τὰ ἡμέτερα
-πρὸς ἐκεῖνον· οὔτε γὰρ ἡμεῖς ἐκείνου ἔτι στρατιῶται, ἐπεί
-γε οὐ συνεπόμεθα αὐτῷ, οὔτε ἐκεῖνος ἔτι ἡμῖν μισθοδότης.
-10.
-31
-11
-ὅτι μέντοι ἀδικεῖσθαι νομίζει ὑφ ̓ ἡμῶν οἶδα· ὥστε καὶ
-μεταπεμπομένου αὐτοῦ οὐκ ἐθέλω ἐλθεῖν, τὸ μὲν μέγιστον
-αἰσχυνόμενος ὅτι σύνοιδα ἐμαυτῷ πάντα ἐψευσμένος αὐτόν,
-ἔπειτα καὶ δεδιὼς μὴ λαβών με δίκην ἐπιθῇ ὧν νομίζει ὑπ ̓
-15
-ἐμοῦ ἠδικῆσθαι. 11. ἐμοὶ οὖν δοκεῖ οὐχ ὥρα εἶναι ἡμῖν καθεύ-
+3.10. ὅτι μέντοι ἀδικεῖσθαι νομίζει ὑφ ̓ ἡμῶν οἶδα·
+ὥστε καὶ μεταπεμπομένου αὐτοῦ οὐκ ἐθέλω ἐλθεῖν,
+τὸ μὲν μέγιστον αἰσχυνόμενος ὅτι σύνοιδα ἐμαυτῷ πάντα ἐψευσμένος αὐτόν,
+ἔπειτα καὶ δεδιὼς μὴ λαβών με δίκην ἐπιθῇ ὧν νομίζει ὑπ̓ ἐμοῦ ἠδικῆσθαι.
+
+However, because I know that he believes to feel shame towards us -
+so that and of those summoned of him not I (might) wish to come,
+the greatest thing him.ashamed that I knew all the things having been cheated
+him,
+then and fearing lest having seized me he might have put justice of those he
+believes towards me to do wrong.
+
+
+11. ἐμοὶ οὖν δοκεῖ οὐχ ὥρα εἶναι ἡμῖν καθεύ-
 δειν οὐδ ̓ ἀμελεῖν ἡμῶν αὐτῶν, ἀλλὰ βουλεύεσθαι ὅ τι χρὴ
 ποιεῖν ἐκ τούτων. καὶ ἕως γε μένομεν αὐτοῦ σκεπτέον
 μοι δοκεῖ εἶναι ὅπως ἀσφαλέστατα μενοῦμεν, εἴ τε ἤδη
