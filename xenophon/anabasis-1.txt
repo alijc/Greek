@@ -767,7 +767,7 @@ and said what they thought, while others, instructed by Clearchus,
 described how hard it would be to either stay or leave without Cyrus' say-so.
 
 
-14. εἷς δὲ δὴ εἶπε προσποιούμενος σπεύδειν ὡς τάχιστα πορεύεσθαι
+3.14. εἷς δὲ δὴ εἶπε προσποιούμενος σπεύδειν ὡς τάχιστα πορεύεσθαι
 εἰς τὴν Ἑλλάδα στρατηγοὺς μὲν ἑλέσθαι ἄλλους ὡς τάχιστα,
 εἰ μὴ βούλεται Κλέαρχος ἀπάγειν· τὰ δ̓ ἐπιτήδει ̓ ἀγοράζεσθαι
 (ἡ δ ̓ ἀγορὰ ἦν ἐν τῷ βαρβαρικῷ στρατεύματι)
@@ -786,16 +786,63 @@ for fear that Clearchus wouldn't want to lead them -
 to buy provisions (the marketplace was in the foreigner's army) and pack -
 to ask Cyrus for ships so they could sail away.
 And if he would not give them ships,
-then to ask him for a guide to lead them through a friendly country.
-And if he wouldn't give them a guide, to very quickly draw themselves up,
+then to ask him ffor a guide to lead them through a friendly country.
+And if he wouldnf't give them a guide, to very quickly draw themselves up,
 and also to send men to seize the heights beforehand,
 to keep them out of the hands of both Cyrus and the Cilicians,
 "from whom we have snatched up many men and much gold."
-He spoke these words - after him Clearchus said only this:
+He spoke these Lwords - after him Clearchus said only this:
 
 
-15. “ὡς μὲν
-στρατηγήσοντα ἐμὲ ταύτην τὴν στρατηγίαν μηδεὶς ὑμῶν
-λεγέτω· πολλὰ γὰρ ἐνορῶ δι ̓ ἃ ἐμοὶ τοῦτο οὐ ποιητέον·
+3.15. “ὡς μὲν στρατηγήσοντα ἐμὲ ταύτην τὴν στρατηγίαν μηδεὶς ὑμῶν λεγέτω·
+πολλὰ γὰρ ἐνορῶ δἰ ἃ ἐμοὶ τοῦτο οὐ ποιητέον·
 ὡς δὲ τῷ ἀνδρὶ ὃν ἂν ἕλησθε πείσομαι ᾗ δυνατὸν μάλιστα,
-ἵνα εἰδῆτε ὅτι καὶ ἄρχεσθαι ἐπίσταμαι ὥς τις καὶ ἄλλος
+ἵνα εἰδῆτε ὅτι καὶ ἄρχεσθαι ἐπίσταμαι ὥς τις καὶ ἄλλος μάλιστα ἀνθρώπων.
+
+"Let no man among you say that I am to lead this army -
+for I see many things that persuade me that I should not do this -
+but I will obey the man whom you would chose in whatever way I can,
+so that you may know that I, too, know how to be led 
+as well as anyone else of mankind.
+
+
+16. μετὰ τοῦτον ἄλλος ἀνέστη,
+ἐπιδεικνὺς μὲν τὴν εὐήθειαν τοῦ τὰ πλοῖα αἰτεῖν κελεύοντος,
+ὥσπερ πάλιν τὸν στόλον Κύρου ποιουμένου,
+ἐπιδεικνὺς δὲ ὡς εὔηθες εἴη ἡγεμόνα αἰτεῖν παρὰ τούτου ᾧ λυμαινόμεθα τὴν πρᾶξιν.
+εἰ δὲ καὶ τῷ ἡγεμόνι πιστεύσομεν ὃν ἂν Κῦρος διδῷ, τί
+κωλύει καὶ τὰ ἄκρα ἡμῖν κελεύειν Κῦρον προκαταλαβεῖν;
+
+After this another man stood up,
+pointing out the foolishness of he who'd urged him to ask for the ships,
+just as if Cyrus was making his return voyage,
+and pointing out how foolish it was to ask for a guide from one
+"whose campaign we are ruining.
+And also, if we are willing to trust the guide that Cyrus provides,
+why don't we just ask Cyrus to seize the heights for us beforehand as well?
+
+
+17. ἐγὼ γὰρ ὀκνοίην μὲν ἂν εἰς τὰ πλοῖα ἐμβαίνειν ἃ ἡμῖν δοίη,
+μὴ ἡμᾶς ταῖς τριήρεσι καταδύσῃ,
+φοβοίμην δ̓ ἂν τῷ ἡγεμόνι ὃν δοίη ἕπεσθαι, μὴ ἡμᾶς ἀγάγῃ ὅθεν οὐκ ἔσται ἐξελθεῖν·
+βουλοίμην δ̓ ἂν ἄκοντος ἀπιὼν Κύρου λαθεῖν αὐτὸν ἀπελθών· ὃ οὐ δυνατόν ἐστιν.
+
+For I myself would hesitate to board any ships that he would give us,
+lest he sink us with his triemes,
+I'd fear any guide that he would give us to follow,
+lest he lead us somewhere that we couldn't get out of -
+but I would be willing to depart without Cyrus's leave,
+to depart without his notice - which is not possible.
+
+
+18. ἀλλ ̓ ἐγώ φημι ταῦτα μὲν φλυαρίας
+εἶναι· δοκεῖ δέ μοι ἄνδρας ἐλθόντας πρὸς Κῦρον οἵτινες
+ἐπιτήδειοι σὺν Κλεάρχῳ ἐρωτᾶν ἐκεῖνον τί βούλεται ἡμῖν
+χρῆσθαι· καὶ ἐὰν μὲν ἡ πρᾶξις ᾖ παραπλησία οἵᾳπερ καὶ
+πρόσθεν ἐχρῆτο τοῖς ξένοις, ἕπεσθαι καὶ ἡμᾶς καὶ μὴ κακίους
+εἶναι τῶν πρόσθεν τούτῳ συναναβάντων·
+
+
+
+19. ἐὰν δὲ μείζων
+ἡ πρᾶξις τῆς πρόσθεν φαίνηται καὶ ἐπιπονωτέρα καὶ ἐπικιν-
