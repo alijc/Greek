@@ -806,7 +806,7 @@ so that you may know that I, too, know how to be led
 as well as anyone else of mankind.
 
 
-16. μετὰ τοῦτον ἄλλος ἀνέστη,
+3.16. μετὰ τοῦτον ἄλλος ἀνέστη,
 ἐπιδεικνὺς μὲν τὴν εὐήθειαν τοῦ τὰ πλοῖα αἰτεῖν κελεύοντος,
 ὥσπερ πάλιν τὸν στόλον Κύρου ποιουμένου,
 ἐπιδεικνὺς δὲ ὡς εὔηθες εἴη ἡγεμόνα αἰτεῖν παρὰ τούτου ᾧ λυμαινόμεθα τὴν πρᾶξιν.
@@ -822,7 +822,7 @@ And also, if we are willing to trust the guide that Cyrus provides,
 why don't we just ask Cyrus to seize the heights for us beforehand as well?
 
 
-17. ἐγὼ γὰρ ὀκνοίην μὲν ἂν εἰς τὰ πλοῖα ἐμβαίνειν ἃ ἡμῖν δοίη,
+3.17. ἐγὼ γὰρ ὀκνοίην μὲν ἂν εἰς τὰ πλοῖα ἐμβαίνειν ἃ ἡμῖν δοίη,
 μὴ ἡμᾶς ταῖς τριήρεσι καταδύσῃ,
 φοβοίμην δ̓ ἂν τῷ ἡγεμόνι ὃν δοίη ἕπεσθαι, μὴ ἡμᾶς ἀγάγῃ ὅθεν οὐκ ἔσται ἐξελθεῖν·
 βουλοίμην δ̓ ἂν ἄκοντος ἀπιὼν Κύρου λαθεῖν αὐτὸν ἀπελθών· ὃ οὐ δυνατόν ἐστιν.
@@ -835,14 +835,44 @@ but I would be willing to depart without Cyrus's leave,
 to depart without his notice - which is not possible.
 
 
-18. ἀλλ ̓ ἐγώ φημι ταῦτα μὲν φλυαρίας
-εἶναι· δοκεῖ δέ μοι ἄνδρας ἐλθόντας πρὸς Κῦρον οἵτινες
-ἐπιτήδειοι σὺν Κλεάρχῳ ἐρωτᾶν ἐκεῖνον τί βούλεται ἡμῖν
-χρῆσθαι· καὶ ἐὰν μὲν ἡ πρᾶξις ᾖ παραπλησία οἵᾳπερ καὶ
-πρόσθεν ἐχρῆτο τοῖς ξένοις, ἕπεσθαι καὶ ἡμᾶς καὶ μὴ κακίους
-εἶναι τῶν πρόσθεν τούτῳ συναναβάντων·
+3.18. ἀλλ̓ ἐγώ φημι ταῦτα μὲν φλυαρίας εἶναι·
+δοκεῖ δέ μοι ἄνδρας ἐλθόντας πρὸς Κῦρον οἵτινες ἐπιτήδειοι
+σὺν Κλεάρχῳ ἐρωτᾶν ἐκεῖνον τί βούλεται ἡμῖν χρῆσθαι·
+καὶ ἐὰν μὲν ἡ πρᾶξις ᾖ παραπλησία οἵᾳπερ
+καὶ πρόσθεν ἐχρῆτο τοῖς ξένοις,
+ἕπεσθαι καὶ ἡμᾶς καὶ μὴ κακίους εἶναι τῶν πρόσθεν τούτῳ συναναβάντων·
+
+But I say that that is nonsense -
+it seems best to me that whatever men are suitable should go to Cyrus
+with Clearchus to ask him what he wants to use us for:
+and if the task is similar to what he used foreigners for before,
+then we also follow him, so that we wouldn't be more cowardly than
+those who advanced with him before.
 
 
+3.19. ἐὰν δὲ μείζων ἡ πρᾶξις τῆς πρόσθεν φαίνηται
+καὶ ἐπιπονωτέρα καὶ ἐπικινδυνοτέρα,
+ἀξιοῦν ἢ πείσαντα ἡμᾶς ἄγειν ἢ πεισθέντα πρὸς φιλίαν ἀφιέναι·
+οὕτω γὰρ καὶ ἑπόμενοι ἂν φίλοι αὐτῷ
+καὶ πρόθυμοι ἑποίμεθα
+καὶ ἀπιόντες ἀσφαλῶς ἂν ἀπίοιμεν·
+ὅ τι δ̓ ἂν πρὸς ταῦτα λέγῃ ἀπαγγεῖλαι δεῦρο·
+ἡμᾶς δ̓ ἀκούσαντας πρὸς ταῦτα βουλεύεσθαι.
 
-19. ἐὰν δὲ μείζων
-ἡ πρᾶξις τῆς πρόσθεν φαίνηται καὶ ἐπιπονωτέρα καὶ ἐπικιν-
+But if the task seems bigger than it was before,
+both more laborious and more dangerous,
+then let them ask him either to offer money to lead us
+or be persuaded to discharge us in friendship -
+for in this way we would follow him as friends, and willingly we would follow,
+and if we were discharged then we'd depart in safety:
+and whatever he should say, let them report back to us:
+and after hearing it let us deliberate on these matters.
+
+
+3.20. ἔδοξε ταῦτα, καὶ ἄνδρας
+15
+ἑλόμενοι σὺν Κλεάρχῳ πέμπουσιν οἳ ἠρώτων Κῦρον τὰ
+δόξαντα τῇ στρατιᾷ. ὁ δ ̓ ἀπεκρίνατο ὅτι ἀκούει Ἀβροκόμαν
+ἐχθρὸν ἄνδρα ἐπὶ τῷ Εὐφράτῃ ποταμῷ εἶναι, ἀπέχοντα
+δώδεκα σταθμούς· πρὸς τοῦτον οὖν ἔφη βούλεσθαι ἐλθεῖν·
+κἂν μὲν ᾖ ἐκεῖ, τὴν δίκην ἔφη χρῄζειν ἐπιθεῖναι αὐτῷ, ἢν
