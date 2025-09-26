@@ -993,8 +993,49 @@ it was a marketplace and many merchant ships were anchored there.
 He remained there for seven days.
 
 
+4.7. καὶ Ξενίας ὁ Ἀρκὰς στρατηγὸς καὶ Πασίων ὁ Μεγαρεὺς ἐμβάντες εἰς πλοῖον
+καὶ τὰ πλείστου ἄξια ἐνθέμενοι ἀπέπλευσαν,
+ὡς μὲν τοῖς πλείστοις ἐδόκουν φιλοτιμηθέντες ὅτι τοὺς στρατιώτας αὐτῶν τοὺς παρὰ
+Κλέαρχον ἀπελθόντας ὡς ἀπιόντας εἰς τὴν Ἑλλάδα πάλιν καὶ οὐ πρὸς βασιλέα εἴα
+Κῦρος τὸν Κλέαρχον ἔχειν.
+ἐπεὶ δ̓ ἦσαν ἀφανεῖς, διῆλθε λόγος ὅτι διώκει αὐτοὺς Κῦρος τριήρεσι·
+καὶ οἱ μὲν ηὔχοντο ὡς δειλοὺς ὄντας αὐτοὺς ληφθῆναι,
+οἱ δ̓ ᾤκτιρον εἰ ἁλώσοιντο.
+
+Both Xenias, the Arcadian general, and Pasio, the Megaran, boarded a ship,
+loading their most valuable possessions, and sailed away.
+To most men they seemed to be envious that Cyrus was allowing Clearchus to keep
+those of their soldiers who'd left them for him,
+intending to go to Greece instead of the king.
+After they were out of sight, word passed that Cyrus was pursuing them
+with triemes, and some prayed that they be taken, as they were cowardly -
+while others pitied them, if they were to be captured.
 
 
-4.7. καὶ Ξενίας ὁ Ἀρκὰς στρατηγὸς καὶ Πασίων ὁ
-Μεγαρεὺς ἐμβάντες εἰς πλοῖον καὶ τὰ πλείστου ἄξια ἐνθέ-
-10
+4.8. Κῦρος δὲ συγκαλέσας τοὺς στρατηγοὺς εἶπεν·
+“ἀπολελοίπασιν ἡμᾶς Ξενίας καὶ Πασίων.
+ἀλλ̓ εὖ γε μέντοι ἐπιστάσθων ὅτι οὔτε ἀποδεδράκασιν·
+οἶδα γὰρ ὅπῃ οἴχονται· οὔτε ἀποπεφεύγασιν·
+ἔχω γὰρ τριήρεις ὥστε ἑλεῖν τὸ ἐκείνων πλοῖον·
+ἀλλὰ μὰ τοὺς θεοὺς οὐκ ἔγωγε αὐτοὺς διώξω,
+οὐδ̓ ἐρεῖ οὐδεὶς ὡς ἐγὼ ἕως μὲν ἂν παρῇ τις χρῶμαι, ἐπειδὰν δὲ ἀπιέναι βούληται,
+συλλαβὼν καὶ αὐτοὺς κακῶς ποιῶ καὶ τὰ χρήματα ἀποσυλῶ.
+ἀλλὰ ἴτωσαν, εἰδότες ὅτι κακίους εἰσὶ περὶ ἡμᾶς ἢ ἡμεῖς περὶ ἐκείνους.
+καίτοι ἔχω γε αὐτῶν καὶ τέκνα καὶ γυναῖκας ἐν Τράλλεσι φρουρούμενα·
+ἀλλ̓ οὐδὲ τούτων στερήσονται, ἀλλ̓ ἀπολήψονται τῆς πρόσθεν ἕνεκα περὶ ἐμὲ ἀρετῆς.”
+
+But Cyrus assembled his generals and said:
+"Xenias and Pasio abandoned us.  But nevertheless let them know full well
+that they have neither snuck away - for I know where they went -
+nor escaped - for I have triemes that could overtake their ship.
+But by the gods! I will not chase them -
+nor will anyone say that I use a man while he is with me,
+but mistreat his men and steal his money if he chooses to leave.
+But let them go, as they know that they are worse towards us than we to them.
+And indeed I have both their children and wives under guard in Tralles -
+but they'll not be deprived of them, but will receive them back again,
+on account of their former excellence towards me.
+
+
+4.9. καὶ ὁ μὲν ταῦτα
+εἶπεν· οἱ δὲ Ἕλληνες, εἴ τις καὶ ἀθυμότερος ἦν πρὸς τὴν ἀνά-
