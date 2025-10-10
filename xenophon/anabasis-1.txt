@@ -1084,13 +1084,21 @@ and he ordered them to tell the soldiers this and
 to convince them to follow.
 
 
-4.12. οἱ δὲ ποιήσαντες ἐκκλησίαν ἀπήγγελλον
-ταῦτα· οἱ δὲ στρατιῶται ἐχαλέπαινον τοῖς στρατηγοῖς, καὶ
-ἔφασαν αὐτοὺς πάλαι ταῦτ ̓ εἰδότας κρύπτειν, καὶ οὐκ ἔφασαν
-ἰέναι, ἐὰν μή τις αὐτοῖς χρήματα διδῷ, ὥσπερ τοῖς προτέροις
-μετὰ Κύρου ἀναβᾶσι παρὰ τὸν πατέρα τοῦ Κύρου, καὶ ταῦτα
-οὐκ ἐπὶ μάχην ἰόντων, ἀλλὰ καλοῦντος τοῦ πατρὸς Κῦρον.
+4.12. οἱ δὲ ποιήσαντες ἐκκλησίαν ἀπήγγελλον ταῦτα·
+οἱ δὲ στρατιῶται ἐχαλέπαινον τοῖς στρατηγοῖς,
+καὶ ἔφασαν αὐτοὺς πάλαι ταῦτ ̓ εἰδότας κρύπτειν,
+καὶ οὐκ ἔφασαν ἰέναι, ἐὰν μή τις αὐτοῖς χρήματα διδῷ,
+ὥσπερ τοῖς προτέροις μετὰ Κύρου ἀναβᾶσι παρὰ τὸν πατέρα τοῦ Κύρου,
+καὶ ταῦτα οὐκ ἐπὶ μάχην ἰόντων, ἀλλὰ καλοῦντος τοῦ πατρὸς Κῦρον.
 ταῦτα οἱ στρατηγοὶ Κύρῳ ἀπήγγελλον·
+
+So they called an assembly and announced this -
+the soldiers were sore at the generals,
+claiming that they'd known this for a long time but had hidden it,
+and refused to go, unless they were paid money,
+as had the men who'd previously gone with Cyrus to his father's house,
+and what is more they hadn't gone to fight,
+but because Cyrus' father had summoned him.
 
 
 4.13. ὁ δ ̓ ὑπέσχετο ἀνδρὶ
