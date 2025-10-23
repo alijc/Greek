@@ -1147,15 +1147,16 @@ for his garrisons and officers,
 and, as Cyrus' friends, you'll get anything else you might want.
 
 
+4.16. ἀκούσαντες ταῦτα ἐπείθοντο καὶ διέβησαν πρὶν τοὺς ἄλλους ἀποκρίνασθαι.
+Κῦρος δ̓ ἐπεὶ ᾔσθετο διαβεβηκότας, ἥσθη τε καὶ τῷ στρατεύματι πέμψας Γλοῦν εἶπεν·
+“ἐγὼ μέν, ὦ ἄνδρες, ἤδη ὑμᾶς ἐπαινῶ·
+ὅπως δὲ καὶ ὑμεῖς ἐμὲ ἐπαινέσετε ἐμοὶ μελήσει, ἢ μηκέτι με Κῦρον νομίζετε.
 
-4.16. ἀκούσαντες ταῦτα ἐπείθοντο
-καὶ διέβησαν πρὶν τοὺς ἄλλους ἀποκρίνασθαι. Κῦρος δ ̓ ἐπεὶ
-ᾔσθετο διαβεβηκότας, ἥσθη τε καὶ τῷ στρατεύματι πέμψας
-Γλοῦν εἶπεν· “ἐγὼ μέν, ὦ ἄνδρες, ἤδη ὑμᾶς ἐπαινῶ· ὅπως
-δὲ καὶ ὑμεῖς ἐμὲ ἐπαινέσετε ἐμοὶ μελήσει, ἢ μηκέτι με Κῦρον
-νομίζετε.
-
-
+When they'd heard this they were persuaded and crossed over before the others
+could give their answer. And when Cyrus saw them cross the river,
+he was delighted and sent Glous to the troops to say:
+"Men, I applaud you now - and I will take care that you will applaud me,
+or believe me to be Cyrus no more."
 
 
 4.17. οἱ μὲν δὴ στρατιῶται ἐν ἐλπίσι μεγάλαις ὄντες
